@@ -1,0 +1,2 @@
+robot_gui_bridge
+-DCATKIN_DEVEL_PREFIX=/home/devcs/Desktop/rosbridge_template/devel -DCMAKE_INSTALL_PREFIX=/home/devcs/Desktop/rosbridge_template/install -G Unix Makefiles

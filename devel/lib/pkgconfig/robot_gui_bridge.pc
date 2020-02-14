@@ -1,0 +1,8 @@
+prefix=/home/devcs/Desktop/rosbridge_template/devel
+
+Name: robot_gui_bridge
+Description: Description of robot_gui_bridge
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/devcs/Desktop/rosbridge_template/devel/lib 
+Requires: 
